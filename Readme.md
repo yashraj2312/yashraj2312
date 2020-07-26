@@ -10,4 +10,4 @@ I love to discuss startup ecosystem, it's insights and how the industry runs. I 
 
 > Still Reading ? Why don't you check out my projects below and yeah, feel free to contact if you want me to be a part of your great team. 
 
-#### To know more head out to my personal website (https://bit.ly/yashrajweb)
+##### To know more head out to my personal website https://bit.ly/yashrajweb
