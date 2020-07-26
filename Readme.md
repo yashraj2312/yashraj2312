@@ -1,4 +1,4 @@
-![bio](https://user-images.githubusercontent.com/48771399/88490629-888c8a80-cfba-11ea-89a9-bd012a845b4f.png)
+![bio1](https://user-images.githubusercontent.com/48771399/88491029-487ad700-cfbd-11ea-9ad9-0625a9c9494c.png)
 
 ## About Me
 I am a Developer based in Bangalore,India who loves working around different technologies taking the tech ecosystem by storm. Looking forward to kickstart my career with a startup disrupting the industry.
